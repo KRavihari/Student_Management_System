@@ -1,0 +1,71 @@
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.exe.config
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.csprojResolveAssemblyReference.cache
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.LoginForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.Properties.Resources.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.GenerateResource.Cache
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.exe
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.pdb
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.exe
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.pdb
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\MySql.Data.DLL
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.MainForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AddStudentForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.studentsListForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.UpdateDeleteStudentForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.StaticsForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageStudentsForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.PrintStudentForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AddCourseForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageCourseForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.RemoveCourseForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageScoresForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AvgScoreByCourseForm.resources
+E:\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.SignUpForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.exe.config
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.exe
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.pdb
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.exe
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\bin\Debug\Student_System.pdb
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.csprojResolveAssemblyReference.cache
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AddCourseForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AddStudentForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.AvgScoreByCourseForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.LoginForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.MainForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageCourseForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageScoresForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageStudentsForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.PrintStudentForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.Properties.Resources.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.RemoveCourseForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.SignUpForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.StaticsForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.studentsListForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.UpdateDeleteStudentForm.resources
+E:\python\projects it\New folder\student management system\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.GenerateResource.Cache
+E:\final it projects\New folder\Student_System\Student_System\bin\Debug\Student_System.exe.config
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.exe
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.pdb
+E:\final it projects\New folder\Student_System\Student_System\bin\Debug\Student_System.exe
+E:\final it projects\New folder\Student_System\Student_System\bin\Debug\Student_System.pdb
+E:\final it projects\New folder\Student_System\Student_System\bin\Debug\MySql.Data.DLL
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.csprojResolveAssemblyReference.cache
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.AddCourseForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.AddStudentForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.AvgScoreByCourseForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.LoginForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.MainForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageCourseForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageScoresForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.ManageStudentsForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.PrintStudentForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.Properties.Resources.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.RemoveCourseForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.SignUpForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.StaticsForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.studentsListForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.UpdateDeleteStudentForm.resources
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.GenerateResource.Cache
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.AssemblyReference.cache
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.CoreCompileInputs.cache
+E:\final it projects\New folder\Student_System\Student_System\obj\Debug\Student_System.csproj.CopyComplete
